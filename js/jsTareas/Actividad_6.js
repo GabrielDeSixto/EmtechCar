@@ -87,3 +87,12 @@ const arreglo = ['Gabriel', 1.75, 21,['Mexico',2023]];
 const [nombreP,edad, ,ArrayValue] = arreglo;
 
 console.log(nombreP,edad,ArrayValue)
+
+
+
+
+//tarea 7
+
+const comidas=[
+    
+]
